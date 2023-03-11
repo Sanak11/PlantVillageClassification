@@ -1,2 +1,3 @@
 # PlantVillageClassification
 Classification of various deseases in plants through pictures.
+Dataset source:https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbWNKQnZBdEM3UVJoLUVaOElOQm1wcnhGUDExd3xBQ3Jtc0ttNFZGSmRLenFpNVViaGRKaVNQSThzVndYbU5GQXVmejhxS3c3TVBPdWJaTktjU2t5TTNDSTVOcXFOaHEzLVZNS0dTNE9mclZ2Yl9jWkI0c28zNGN1ZzR4RE1XRndiU2ljbW5QcTVGUWUwOUtra0gtWQ&q=https%3A%2F%2Fwww.kaggle.com%2Farjuntejaswi%2Fplant-village&v=ZN6P_GEJ7lk
